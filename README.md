@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3 AND JavaScript.
 - 💞️ I’m looking to collaborate on projects that involve front-end web development.
 - 📫 How to reach me: You can reach me through on my email at khalliqmeite@gmail.com.
-- 😄 Pronouns: He
+- 😄 Pronouns:...
 - ⚡ Fun fact: I have passion for creating visually appealing and interactive websites.
 
 <!---
